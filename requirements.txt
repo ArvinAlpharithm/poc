@@ -1,8 +1,7 @@
 streamlit
-google-generativeai
-python-dotenv
+pdfplumber
 langchain
-PyPDF2
+langchain-ibm
+python-dotenv
+sentence-transformers
 faiss-cpu
-langchain_google_genai
-langchain-community
