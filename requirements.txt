@@ -5,3 +5,4 @@ langchain-ibm
 python-dotenv
 sentence-transformers
 faiss-cpu
+langchain-community
